@@ -1,0 +1,24 @@
+.appform {
+  background: #4654ac;
+  width: 300px;
+  height: 400px;
+  padding: 30px;
+  border-radius: 30px;
+  * {
+    color: #fff !important;
+  }
+  p {
+    // font-weight: bold;
+    color: #f7f8fb;
+  }
+  input {
+    background: none !important;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    padding: 10px;
+    outline: 0 !important;
+  }
+  .ant-cascader-picker {
+    background: none !important;
+  }
+}

@@ -1,0 +1,16 @@
+header {
+  border-bottom: 1px solid #eee;
+  display: flex;
+  justify-content: space-between;
+  > div {
+    display: flex;
+    align-items: center;
+  }
+  .logotype {
+    display: flex;
+    align-items: center;
+    img {
+      height: 40px;
+    }
+  }
+}
